@@ -1,4 +1,6 @@
-# npm install cypress --save-dev
+## e2e testing application
+
+### npm install cypress --save-dev
 
 {
   "scripts": {
@@ -6,4 +8,4 @@
   }
 }
 
-# npm run cypress
+### npm run cypress
